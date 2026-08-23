@@ -1,0 +1,5 @@
+# Kept intentionally small. Add packages only in the phase that uses them.
+groq
+python-dotenv
+pydantic
+sentence-transformers
