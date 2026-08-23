@@ -1,0 +1,4 @@
+# Intentionally empty for now.
+#
+# In the embeddings/RAG phases, this will become a tiny, local and inspectable
+# knowledge base. Starting empty prevents us from treating RAG as magic.
